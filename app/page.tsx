@@ -56,7 +56,7 @@ export default function Home() {
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-6xl font-bold">
-          MNIST Inference on {' '}
+          CIFAR Inference on {' '}
           <a className="text-blue-600" href="https://nextjs.org">
             Serverless
           </a>
@@ -101,7 +101,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          EMLO 2.0 🤖 The School of AI
+          Shivam's ASSN S9
         </a>
       </footer>
     </div>
